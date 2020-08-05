@@ -1,0 +1,9 @@
+.app-header {
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.app-header h2 {
+  font-size: 1rem;
+  color: #555;
+}

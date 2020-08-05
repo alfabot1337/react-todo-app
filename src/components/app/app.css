@@ -1,0 +1,13 @@
+body {
+  padding: 1rem;
+}
+
+.todo {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.item-control {
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
